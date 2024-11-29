@@ -51,14 +51,13 @@ https://t.me/green_bill21
 		109.172.121.41:60163:88LUfeuz:31Yva8yQ : Latvia
 		122.8.117.121:12324:14a77c20c9d1b:36ccf1c7d7  : USA
 		77.91.67.224:59010:88LUfeuz:31Yva8yQ : Armenia
-		45.147.31.103:8000:aZDk6d:a0je5e : Germany
 		
 		--USA
 
 		161.77.82.100:12324:14a2a8e06348d:1842948cf0
 		185.145.52.255:12324:14a8d39491e8c:a2fc8d1266
 		130.255.66.123:12324:14a93c33a6674:d35673b92a
-		147.45.201.121:8000:QT60BR:XLbgNK
+		
 
 		--Other
 
@@ -66,9 +65,7 @@ https://t.me/green_bill21
 		46.3.137.122:8000:sQpfpf:00eBYz : Latvia
 		196.19.8.189:8000:D5L6EP:XwZTcz :  Germany
 		
-		168.181.52.150:8000:Czm4vq:Sh1WWX
-		38.152.27.143:8000:nQ2QQA:43R3Af
-		38.170.122.195:8000:MFzNCt:6DtcHR
+		
 		193.58.176.60:62851:1xcz6rrC:Adc3RhEk
 
 		
@@ -79,7 +76,10 @@ https://t.me/green_bill21
 	Silverstar123!@#
 	
 	
-	
+	--Adspower
+		anastasiyapetrova2020@gmail.com
+
+
 	
 	----GitHub----
 	
@@ -301,5 +301,10 @@ https://t.me/green_bill21
 			codefile.io/
 			https://collabedit.com/
 			https://codeshare.in/
+			
+			
+			154.223.16.55
+			Administrator
+			Bestdevelop0305@$$
 			
 				
